@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/mnt/data/A_digital_graphic_profile_banner_features_a_cybers.png" alt="Cybersecurity Banner" />
+  <img src="https://raw.githubusercontent.com/ShamsElahi/ShamsElahi/main/banner.png" alt="Cybersecurity Banner" />
 </p>
+
 
 <h1 align="center">🔐 S. M. Shams Elahi</h1>
 <h3 align="center">Cybersecurity • SOC Analyst • Threat Detection • SIEM • Wazuh • TryHackMe Top 8%</h3>
