@@ -27,6 +27,15 @@
 
 ---
 
+## 🛡️ TryHackMe Badges
+
+<p align="left">
+  <img src="BADGE_IMAGE_URL_1" width="120" />
+  <img src="BADGE_IMAGE_URL_2" width="120" />
+  <img src="BADGE_IMAGE_URL_3" width="120" />
+</p>
+
+
 ## 📜 **Certificates**
 
 | Certificate | View |
