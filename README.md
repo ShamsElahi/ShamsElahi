@@ -29,11 +29,7 @@
 
 ## 🛡️ TryHackMe Badges
 
-<p align="left">
-  <img src="BADGE_IMAGE_URL_1" width="120" />
-  <img src="BADGE_IMAGE_URL_2" width="120" />
-  <img src="BADGE_IMAGE_URL_3" width="120" />
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ShamsElahi.png" alt="Your Image Badge" />
 
 
 ## 📜 **Certificates**
