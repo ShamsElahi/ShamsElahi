@@ -105,9 +105,9 @@ MITRE ATT&CK • NIST • CIS Controls
 ---
 
 ## 🤝 **Connect With Me**
-- 🔗 **LinkedIn:** *Add your link here*  
-- 🏠 **GitHub:** https://github.com/ShamsElahi  
-- 📧 **Email:** *Add email*  
+- 🔗 **LinkedIn: https://tryhackme.com/p/ShamsElahi
+- 🏠 **GitHub: https://github.com/ShamsElahi  
+- 📧 **Email:shamselahi3@gmail.com 
 
 ---
 
