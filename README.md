@@ -57,22 +57,22 @@ I am actively seeking opportunities as a Security Analyst / SOC Analyst where I 
 
 ---
 
-## 🚀 **Featured Cybersecurity Projects**
+# 🚀 Featured Cybersecurity Projects
 
-### 🔸 **Wazuh SIEM Detection Lab**
-A complete threat detection engineering lab:
-- ✔ Custom Wazuh rules  
-- ✔ MITRE ATT&CK mapping  
-- ✔ Log parsing & threat hunting  
-- ✔ Alert generation workflow  
-- ✔ Incident response reports  
+## 🔸 Wazuh SIEM Detection Lab
+A comprehensive SOC L1 Blue Team lab focused on threat detection and incident response:
 
-🔗 **Repo:** https://github.com/ShamsElahi/wazuh-siem-detection-lab  
+- ✔ Custom Wazuh rules aligned with MITRE ATT&CK  
+- ✔ Log parsing & threat hunting exercises  
+- ✔ Alert generation & triage workflow  
+- ✔ Incident response reporting simulations  
+
+🔗 **Repo:** [wazuh-siem-detection-lab](https://github.com/ShamsElahi/wazuh-siem-detection-lab)  
 
 ---
 
-### 🔸 **Security Automation (Python)**
-SOC automation scripts:
+## 🔸 Security Automation (Python)
+SOC automation scripts to streamline defensive operations:
 
 - Log Parser  
 - Failed Login Alert Generator  
@@ -84,32 +84,45 @@ SOC automation scripts:
 
 ---
 
-## 🛠 **Skills & Technologies**
+# 🛠 Skills & Technologies (SOC L1 Focus)
 
 ### 🟦 SOC & Security Ops
-Incident Response • Threat Hunting • Alert Triage • Log Forensics  
+Incident Response • Threat Hunting • Alert Triage • Log Forensics • Phishing Analysis • Malware Analysis • SIEM Triage  
 
-### 🟩 Tools  
+### 🟩 Tools
 Wazuh • Splunk • ELK Stack • Wireshark • OSQuery • Suricata • Sigma  
 
-### 🟨 Programming  
+### 🟨 Programming
 Python • Bash  
 
-### 🟪 Cloud Security  
+### 🟪 Cloud Security
 AWS IAM • CloudTrail • VPC • GuardDuty • S3 Security  
 
-### 🟥 Frameworks  
-MITRE ATT&CK • NIST • CIS Controls  
+### 🟥 Frameworks
+MITRE ATT&CK • Pyramid of Pain • Kill Chain • NIST • CIS Controls  
 
 ---
 
-## 📊 **GitHub Stats**
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShamsElahi&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamsElahi&theme=tokyonight" height="165">
 </p>
 
 ---
+
+# 🔹 About SOC L1 Blue Team Skills
+This portfolio highlights hands-on skills for entry-level SOC analysts:
+
+- Blue Team Fundamentals & SOC Role Introduction  
+- Threat Analysis & Triage Techniques  
+- Humans & Systems as Attack Vectors  
+- Phishing & Malware Analysis for SOC  
+- Network Traffic & Security Monitoring (Wireshark, Logs)  
+- Windows & Linux Security Monitoring  
+- SIEM Triage & Incident Response Workflow  
+- SOC L1 Capstone Challenges for practical experience  
+
 
 ## 📈 **Activity Graph**
 <p align="center">
