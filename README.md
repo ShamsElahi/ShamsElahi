@@ -9,13 +9,29 @@
 
 ---
 
-## 🧩 **About Me**
-- 🛡️ SOC Analyst (Tier-1/2) — Blue Team Focus  
-- 📊 Threat Detection Engineering, Log Analysis, Incident Response  
-- 🧪 SIEM: **Wazuh, Splunk, Elastic Stack**  
-- ☁️ AWS Security: IAM, CloudTrail, GuardDuty  
-- 🧠 TryHackMe Global Ranking: **Top 8%**  
-- 🎯 Interests: Detection Engineering, DFIR, Adversary Emulation  
+I am a Cyber Security Analyst specializing in Blue Team operations, SOC L1 monitoring, SIEM triage, log analysis, threat detection, and incident response. I work with Wazuh, Suricata, Elastic Stack, and Python automation to detect, investigate, and respond to security incidents across network, endpoint, and cloud environments.
+
+During my Master’s in Information and Cyber Security at the University of Dhaka, I designed and deployed an AI-powered cloud security framework for SME environments—integrating Wazuh, Filebeat, Elasticsearch, Kibana, Suricata, and Python-based AI/ML modules to enable automated threat detection and behavioral anomaly analysis.
+
+I have practical experience in SIEM alert triage, threat hunting, phishing analysis, network traffic analysis, Windows/Linux monitoring, malware detection, and incident escalation, following frameworks like MITRE ATT&CK, Kill Chain, and Pyramid of Pain.
+
+Core Skills:
+
+SIEM (Wazuh, Elastic Stack)
+
+Log Analysis & Threat Hunting
+
+Network, Endpoint & Cloud Monitoring
+
+Incident Response & Automated Alerts
+
+Python & AI/ML for Cybersecurity
+
+SOC L1 Triage & Investigation Workflows
+
+Ranked in the Top 8% on TryHackMe, I continuously enhance my skills through hands-on Blue Team labs and SOC simulations. I am passionate about building secure, resilient systems and helping organizations defend against evolving cyber threats.
+
+I am actively seeking opportunities as a Security Analyst / SOC Analyst where I can leverage my expertise in SIEM monitoring, threat detection, incident response, and cloud-based security operations.
 
 ---
 
