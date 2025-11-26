@@ -5,7 +5,7 @@
 
 
 <h1 align="center">🔐 S. M. Shams Elahi</h1>
-<h3 align="center">Cybersecurity • SOC Analyst • Threat Detection • SIEM • Wazuh • TryHackMe Top 8%</h3>
+<h3 align="center">Cybersecurity | L1 SOC Analyst | TryHackMe Top 8%</h3>
 
 ---
 
