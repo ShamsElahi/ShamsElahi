@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShamsElahi/ShamsElahi/main/banner1.png" alt="Cybersecurity Banner" />
+  <img src="https://raw.githubusercontent.com/ShamsElahi/ShamsElahi/main/bannerx.png" alt="Cybersecurity Banner" />
 </p>
 
 
