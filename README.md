@@ -71,22 +71,31 @@ SOC automation scripts to streamline defensive operations:
 
 ---
 
-# 🛠 Skills & Technologies (SOC L1 Focus)
+🛠 Skills & Technologies (SOC L1 Focus)
+🟦 SOC & Security Operations
 
-### 🟦 SOC & Security Ops
-Incident Response • Threat Hunting • Alert Triage • Log Forensics • Phishing Analysis • Malware Analysis • SIEM Triage  
+Incident Response • Threat Hunting • Alert Triage • Log Forensics • Phishing Analysis • Malware Triage • SIEM Triage & Monitoring
 
-### 🟩 Tools
-Wazuh • Splunk • ELK Stack • Wireshark • OSQuery • Suricata • Sigma  
+🟩 Tools
 
-### 🟨 Programming
-Python • Bash  
+Wazuh • Splunk • ELK Stack • Suricata • Wireshark • OSQuery • Sigma • CrowdStrike Falcon • Microsoft Defender
 
+🟨 Programming
 
-### 🟥 Frameworks
-MITRE ATT&CK • Pyramid of Pain • Kill Chain • NIST • CIS Controls  
+Python • Bash
 
+🟥 Frameworks & Methodologies
+
+MITRE ATT&CK • Lockheed Martin Kill Chain • NIST CSF • CIS Controls • Pyramid of Pain
 ---
+**Core Competencies**
+
+SIEM: Splunk • ELK Stack • Wazuh
+EDR: CrowdStrike • Microsoft Defender
+Log Analysis: Windows Event Logs • Linux Syslog
+Network Security: Suricata • Wireshark • DNS/HTTP/TLS Analysis
+Security Domains: VAPT • Web App Security • Cloud Security (Azure) • Digital Forensics
+SOC Skills: Incident Triage • Alert Enrichment • Threat Classification • Use-case development
 
 # 📊 GitHub Stats
 <p align="center">
