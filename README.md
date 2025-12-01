@@ -82,8 +82,6 @@ Wazuh • Splunk • ELK Stack • Wireshark • OSQuery • Suricata • Sigma
 ### 🟨 Programming
 Python • Bash  
 
-### 🟪 Cloud Security
-AWS IAM • CloudTrail • VPC • GuardDuty • S3 Security  
 
 ### 🟥 Frameworks
 MITRE ATT&CK • Pyramid of Pain • Kill Chain • NIST • CIS Controls  
