@@ -71,31 +71,73 @@ SOC automation scripts to streamline defensive operations:
 
 ---
 
-🛠 Skills & Technologies (SOC L1 Focus)
-🟦 SOC & Security Operations
+# 🛠 Skills & Technologies (SOC L1 Focus)
 
-Incident Response • Threat Hunting • Alert Triage • Log Forensics • Phishing Analysis • Malware Triage • SIEM Triage & Monitoring
+## 🟦 SOC & Security Operations  
+- Incident Response  
+- Threat Hunting  
+- Alert Triage  
+- Log Forensics  
+- Phishing Analysis  
+- Malware Triage  
+- SIEM Triage & Monitoring  
 
-🟩 Tools
+## 🟩 Tools  
+- Wazuh  
+- Splunk  
+- ELK Stack  
+- Suricata  
+- Wireshark  
+- OSQuery  
+- Sigma  
+- CrowdStrike Falcon  
+- Microsoft Defender  
 
-Wazuh • Splunk • ELK Stack • Suricata • Wireshark • OSQuery • Sigma • CrowdStrike Falcon • Microsoft Defender
+## 🟨 Programming  
+- Python  
+- Bash  
 
-🟨 Programming
+## 🟥 Frameworks & Methodologies  
+- MITRE ATT&CK  
+- Lockheed Martin Kill Chain  
+- NIST CSF  
+- CIS Controls  
+- Pyramid of Pain  
 
-Python • Bash
-
-🟥 Frameworks & Methodologies
-
-MITRE ATT&CK • Lockheed Martin Kill Chain • NIST CSF • CIS Controls • Pyramid of Pain
 ---
-**Core Competencies**
 
-SIEM: Splunk • ELK Stack • Wazuh
-EDR: CrowdStrike • Microsoft Defender
-Log Analysis: Windows Event Logs • Linux Syslog
-Network Security: Suricata • Wireshark • DNS/HTTP/TLS Analysis
-Security Domains: VAPT • Web App Security • Cloud Security (Azure) • Digital Forensics
-SOC Skills: Incident Triage • Alert Enrichment • Threat Classification • Use-case development
+# ⭐ Core Competencies
+
+### 🔹 SIEM  
+- Splunk  
+- ELK Stack  
+- Wazuh  
+
+### 🔹 EDR  
+- CrowdStrike Falcon  
+- Microsoft Defender  
+
+### 🔹 Log Analysis  
+- Windows Event Logs  
+- Linux Syslog  
+
+### 🔹 Network Security  
+- Suricata  
+- Wireshark  
+- DNS / HTTP / TLS Traffic Analysis  
+
+### 🔹 Security Domains  
+- VAPT  
+- Web Application Security  
+- Cloud Security (Azure)  
+- Digital Forensics  
+
+### 🔹 SOC Skills  
+- Incident Triage  
+- Alert Enrichment  
+- Threat Classification  
+- Use-case Development  
+
 
 # 📊 GitHub Stats
 <p align="center">
